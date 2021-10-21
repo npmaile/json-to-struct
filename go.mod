@@ -1,4 +1,4 @@
-module github.com/tmc/json-to-struct
+module github.com/npmaile/json-to-struct
 
 go 1.14
 
